@@ -4,15 +4,15 @@ I'm a Computer Systems Engineer and I'm starting my career as a Software Develop
 Currently, I spend my free time practicing with JavaScript, HTML, and CSS, building small projects to improve my skills.  
 
 🚀 About Me  
-- 🌱 I’m currently learning Front-End Web Development
+- 🌱 Currently learning: **Javascript and React for Front-End Web Development**
 - 📊 I completed a 38-hour LinkedIn Learning path for Front-End Developer
-- 🔧 Practicing with APIs, DOM manipulation, and small dashboards with Python (Pandas, Dash, Plotly)
-- 🎯 Goal: Become a full-stack developer and contribute to open-source projects  
+- 🔧 Practicing with APIs, DOM manipulation, and Classes.
+- 🎯 Goal: Become a front-end developer and contribute to open-source projects  
 
 ## 🛠️ Tech Stack  
 - **Languages**: JavaScript, Python, C#
 - **Web**: HTML5, CSS3, JavaScript (ES6+)  
-- **Frameworks & Tools**: Dash, Plotly, Windows Forms, Git  
+- **Frameworks & Tools**: React, Jasmine, Dash, Plotly, Windows Forms, Git
 - **Other skills**: Problem solving, critical and creative thinking  
 
 ## 📂 Featured Projects  
