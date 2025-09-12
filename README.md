@@ -1,6 +1,6 @@
 👋 Hello, I'm Edmon Delgado  
 
-I'm an Engineer in Systems and Computing and I'm starting my career as a Software Developer.  
+I'm a Computer Systems Engineer and I'm starting my career as a Software Developer.  
 Currently, I spend my free time practicing with JavaScript, HTML, and CSS, building small projects to improve my skills.  
 
 🚀 About Me  
@@ -16,9 +16,9 @@ Currently, I spend my free time practicing with JavaScript, HTML, and CSS, build
 - **Other skills**: Problem solving, critical and creative thinking  
 
 ## 📂 Featured Projects  
-- 🌐 [Amazon clone page](https://edmondelgado.github.io/Amazon-clone-lite/index.html) - Lightweight Amazon landing page with dynamic product catalog, shopping cart, localStorage persistence, and responsive design using HTML, CSS, and JavaScript (ES6+). Includes OOP concepts like classes and inheritance, DOM manipulation, and simulated backend with JSON. *(in progress)*
+- 🌐 [Amazon clone page](https://edmondelgado.github.io/Amazon-clone-lite/index.html) *(in progress)* - Lightweight Amazon landing page with dynamic product catalog, shopping cart, localStorage persistence, and responsive design using HTML, CSS, and JavaScript (ES6+). Includes OOP concepts like classes and inheritance, DOM manipulation, and simulated backend with JSON. 
 - 🌤️ [Weather App](https://edmondelgado.github.io/Weather-app/) – Simple weather app using WeatherAPI and vanilla JS
-- 📊 Dashboard with Python – Real-time data visualization with Pandas, Dash & Plotly *(in progress)*
+- 📊 Dashboard with Python *(in progress)* – Real-time data visualization with Pandas, Dash & Plotly 
 
 ## 📫 Connect with Me  
 - 🌐 GitHub: https://github.com/edmondelgado
