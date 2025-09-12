@@ -16,13 +16,13 @@ Currently, I spend my free time practicing with JavaScript, HTML, and CSS, build
 - **Other skills**: Problem solving, critical and creative thinking  
 
 ## 📂 Featured Projects  
-- 🌤️ [Weather App](https://edmondelgado.github.io/Weather-app/) – Simple weather app using WeatherAPI and vanilla JS  
+- 🌤️ https://edmondelgado.github.io/Weather-app/ – Simple weather app using WeatherAPI and vanilla JS  
 - 📊 Dashboard with Python – Real-time data visualization with Pandas, Dash & Plotly *(in progress)*
 
 ---
 
 ## 📫 Connect with Me  
 - 🌐 GitHub: https://github.com/edmondelgado
-- 💼 LinkedIn: https://www.linkedin.com/in/edmon-delgado/  
+- 💼 LinkedIn: [Edmon Delgado](https://www.linkedin.com/in/edmon-delgado/)
 
 ✨ Thanks for visiting my profile! Feel free to check my repositories and reach out.  
