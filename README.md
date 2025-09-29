@@ -1,9 +1,9 @@
-#👋 Hello, I'm Edmon Delgado  
+# 👋 Hello, I'm Edmon Delgado  
 
 I'm a Computer Systems Engineer and I'm starting my career as a Software Developer.  
 Currently, I spend my free time practicing with JavaScript, HTML, and CSS, building small projects to improve my skills.  
 
-#🚀 About Me  
+# 🚀 About Me  
 - 🌱 Currently learning: **Javascript and React for Front-End Web Development**
 - 📊 I completed a 38-hour LinkedIn Learning path for Front-End Developer
 - 🔧 Practicing with APIs, DOM manipulation, and Classes.
